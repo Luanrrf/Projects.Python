@@ -19,10 +19,10 @@ ano_nascimento.py -> Descobre o seu ano de nascimento
 
 calculadora.py -> Calculadora que calcula as 4 funções básicas:
 
-  >> Soma
-  >> Subtração
-  >> Multiplicação
-  >> Divisão
+  \n>> Soma
+  \n>> Subtração
+  \n>> Multiplicação
+  \n>> Divisão
 
 conversor_de_temperatura.py -> Converte a temperatura pra outros tipos de unidade, podendo ser em Celsius, Kelvin ou Fahrenheit
 
