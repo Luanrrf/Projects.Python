@@ -5,6 +5,7 @@ Bem vindos aos meus projetos de Python, espero que gostem.
 2_vetores.py -> Cria 2 vetores com a quantidade de algaritmos informada pelo usuário.
 
 SoftwareEmpresarial.py -> Calcula diversas informações importantes para empresas como: 
+
     >> Maior e menor receita mensal
     >> Maior e menor receita trimestral
     >> Receita média mensal e trimestral
@@ -17,6 +18,7 @@ SoftwareEmpresarial.py -> Calcula diversas informações importantes para empres
 ano_nascimento.py -> Descobre o seu ano de nascimento
 
 calculadora.py -> Calculadora que calcula as 4 funções básicas:
+
   >> Soma
   >> Subtração
   >> Multiplicação
