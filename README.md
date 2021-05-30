@@ -1,7 +1,5 @@
 # Projects.Python
 
-Bem vindos aos meus projetos de Python, espero que gostem.
-
 2_vetores.py -> Cria 2 vetores com a quantidade de algaritmos informada pelo usuário.
 
 SoftwareEmpresarial.py -> Calcula diversas informações importantes para empresas como: 
