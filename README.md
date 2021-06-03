@@ -32,6 +32,10 @@ função_potencia.py -> Calcula a potência de qualquer número
 
 loja_simples.py -> Recebe do usuário os produtos que irão ser comprados e os coloca em uma lista
 
+mostra_pares_e_soma.py -> Mostra os números pares e os soma
+
 média.py -> Calcula a soma dos números informados e a média entre eles
+
+saudacoes.py-> Cria uma lista com todos os nomes exigidos e depois da saudações a todos que estão na lista
 
 Qualquer dúvida, solicitação ou problema entrem em contato comigo pelo e-mail.
