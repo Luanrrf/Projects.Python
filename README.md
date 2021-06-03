@@ -32,7 +32,7 @@ função_potencia.py -> Calcula a potência de qualquer número
 
 loja_simples.py -> Recebe do usuário os produtos que irão ser comprados e os coloca em uma lista
 
-mostra_pares_e_soma.py -> Mostra os números pares e os soma
+mostra_pares_e_soma.py -> Mostra os números pares entre 2 extremos apresentados pelo usuário e os soma
 
 média.py -> Calcula a soma dos números informados e a média entre eles
 
