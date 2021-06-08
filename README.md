@@ -26,6 +26,8 @@ conversor_de_temperatura.py -> Converte a temperatura pra outros tipos de unidad
 
 eq_primeiro_grau.py -> Calcula os valores de x e y após informada a equação de primeiro grau
 
+fibonacci.py -> Cria uma lista com a quantidade de números fibonacci que o usuário informou
+
 for.py -> Faz um loop de solicitações de números ao usuário e ao final soma todos
 
 função_potencia.py -> Calcula a potência de qualquer número
